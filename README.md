@@ -36,6 +36,11 @@ DB_DATABASE=nama_database
 DB_USERNAME=root
 DB_PASSWORD=
 ```
+## Cara menjalankan laravel
+untuk menjalankan laravel, jalankan perintah berikut pada terminal:
+```
+php artisan serve
+```
 
 ## License
 
