@@ -16,13 +16,13 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Jalankan perintah berikut di folder tempat kerja anda
 
 ```
-git clone https://gitlab.com/bareng-team/web-gis.git
+git clone https://github.com/rofiuddin15/gis-apps.git
 ```
 
 masuk ke folder yang sudah di clone atau di download dan jalankan perintah selanjutnya, ikuti langkah berikut:
 
 ```
-cd web-gis
+cd gis-apps
 composer install
 ```
 
