@@ -28,6 +28,7 @@ php artisan key:generate
 php artisan migrate
 php artisan db:seed
 ```
+sebelum menjalankan key:generate pastikan file .env sudah ada, jika belum maka bisa di copy dari file .env.example
 
 ## Cara Menyambungkan ke database
 
