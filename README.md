@@ -41,6 +41,8 @@ untuk menjalankan laravel, jalankan perintah berikut pada terminal:
 ```
 php artisan serve
 ```
+## Modifikasi Map
+edit file ```resources/views/livewire/map-location.blade.php``` untuk melakukan perubahan terhadap titik lokasi map.
 
 ## License
 
