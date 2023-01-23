@@ -28,7 +28,7 @@ composer install
 
 ## Cara Menyambungkan ke database
 
-Ubah bagian ini untuk melakukan koneksi ke database.
+Ubah bagian ini pada file ```.env``` untuk melakukan koneksi ke database.
 
 ```
 DB_DATABASE=nama_database
