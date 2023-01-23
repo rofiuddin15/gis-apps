@@ -24,6 +24,7 @@ masuk ke folder yang sudah di clone atau di download dan jalankan perintah selan
 ```
 cd gis-apps
 composer install
+php artisan key:generate
 ```
 
 ## Cara Menyambungkan ke database
